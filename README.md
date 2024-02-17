@@ -1,6 +1,6 @@
 # threads_app
 
-A new Flutter project.
+Workshop, FLutter
 
 ## Getting Started
 
